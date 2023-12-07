@@ -84,5 +84,37 @@
       ],
       "id": 3
     }
+  ],
+  "profiles" : [
+    {
+      "name": "김일곤",
+      "link": "https://github.com/lifetime909",
+      "description": "조장"
+    },
+    {
+      "name": "박수헌",
+      "link": "https://github.com/tngjs3327",
+      "description": "조원"
+    },
+    {
+      "name": "하현진",
+      "link": "https://github.com/HyunjinHa",
+      "description": "조원"
+    },
+    {
+      "name": "조현준",
+      "link": "https://github.com/JOHYEONJUN39",
+      "description": "조원"
+    },
+    {
+      "name": "배석민",
+      "link": "https://github.com/jessica5626",
+      "description": "조원"
+    },
+    {
+      "name": "유재경",
+      "link": "https://github.com/jk-milk",
+      "description": "조원"
+    }
   ]
 }
