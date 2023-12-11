@@ -81,14 +81,9 @@
         "학생들을 위한 회식 제공"
       ],
       "images": [
-        "https://i.postimg.cc/L5BkvmqY/1.jpg",
-        "https://i.postimg.cc/zXxKftTr/2.jpg",
-        "https://i.postimg.cc/MZdtGTJ2/3.jpg",
-        "https://i.postimg.cc/W39rsdF5/4.jpg",
-        "https://i.postimg.cc/8c96rxbW/5.jpg",
-        "https://i.postimg.cc/PrvZkrtM/6.jpg"
+        "https://my-react-team-project.s3.ap-northeast-2.amazonaws.com/about/admin_uid_e74f9935-35e9-6552-3293-f36f8d343ffe_iName_KakaoTalk_20230605_200036804.jpg"
       ],
-      "id" : 3
+      "id": 3
     }
   ]
 }
