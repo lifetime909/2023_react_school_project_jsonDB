@@ -75,41 +75,53 @@
         "학생들을 위한 회식 제공"
       ],
       "images": [
-        "https://my-react-team-project.s3.ap-northeast-2.amazonaws.com/about/admin_uid_e74f9935-35e9-6552-3293-f36f8d343ffe_iName_KakaoTalk_20230605_200036804.jpg"
+        "https://my-react-team-project.s3.ap-northeast-2.amazonaws.com/about/admin_uid_1e46dcb7-d3b6-45c5-b56a-5dd88c9d856b_iName_4.jpg"
       ],
       "id": 3
     }
   ],
-  "profiles" : [
+  "team": [
     {
-      "name": "김일곤",
+      "name": "김일곤 (조장)",
+      "std": "2201330",
       "link": "https://github.com/lifetime909",
-      "description": "조장"
+      "image": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+      "id": 4
     },
     {
       "name": "박수헌",
+      "std": "2201351",
       "link": "https://github.com/tngjs3327",
-      "description": "조원"
+      "image": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+      "id": 5
     },
     {
       "name": "하현진",
+      "std": "2201425",
       "link": "https://github.com/HyunjinHa",
-      "description": "조원"
+      "image": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+      "id": 6
     },
     {
       "name": "조현준",
+      "std": "1901276",
       "link": "https://github.com/JOHYEONJUN39",
-      "description": "조원"
-    },
-    {
-      "name": "배석민",
-      "link": "https://github.com/jessica5626",
-      "description": "조원"
+      "image": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+      "id": 7
     },
     {
       "name": "유재경",
+      "std": "2001440",
       "link": "https://github.com/jk-milk",
-      "description": "조원"
+      "image": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+      "id": 8
+    },
+    {
+      "name": "배석민",
+      "std": "2201360",
+      "link": "https://github.com/jessica5626",
+      "image": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+      "id": 9
     }
   ]
 }
